@@ -1,4 +1,5 @@
 discord.py
-time
+requests
 asyncio
 random
+psutil
